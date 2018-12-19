@@ -16,6 +16,12 @@ In-Memory database :
 
 This app use an in memory database for simplicity. 
 
+Currency types:
+
+this demo app handles 3 currencies
+aud, usd, sgd
+
+
 Rest Object Model :
 
 This application assumes three entities viz., User / Account / Transaction
